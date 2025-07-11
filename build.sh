@@ -1,3 +1,3 @@
 timestamp=$(date +%T)
 
-touch $timestamp
+touch $timestamp.txt
